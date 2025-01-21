@@ -24,7 +24,7 @@
         "build:core": "pnpm --filter core build",
         "build:metadata": "pnpm --filter metadata build",
         "build:module": "pnpm --filter nuxt-module build",
-        "build:lib": "pnpm --filter lpp-design-system build",
+        "build:lib": "pnpm --filter primevue build",
         "build:themes": "pnpm --filter themes build",
         "build:icons": "pnpm --filter icons build",
         "build:forms": "pnpm --filter forms build",
