@@ -99,7 +99,7 @@
     },
     "dependencies": {
         "@primeuix/utils": "catalog:",
-        "@primevue/core": "workspace:*"
+        "@lpp-design-system/core": "workspace:*"
     },
     "engines": {
         "node": ">=12.11.0"

@@ -353,8 +353,8 @@
     "dependencies": {
         "@primeuix/styled": "catalog:",
         "@primeuix/utils": "catalog:",
-        "@primevue/core": "workspace:*",
-        "@primevue/icons": "workspace:*"
+        "@lpp-design-system/core": "workspace:*",
+        "@lpp-design-system/icons": "workspace:*"
     },
     "engines": {
         "node": ">=12.11.0"

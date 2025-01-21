@@ -39,7 +39,7 @@
         "dev:link": "pnpm link --global && npm link"
     },
     "dependencies": {
-        "@primevue/metadata": "workspace:*"
+        "@lpp-design-system/metadata": "workspace:*"
     },
     "devDependencies": {
         "tsup": "^8.1.0",
