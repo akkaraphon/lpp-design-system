@@ -1,17 +1,17 @@
 {
-    "name": "primevue",
-    "version": "4.2.6",
+    "name": "lpp-design-system",
+    "version": "4.2.5",
     "author": "PrimeTek Informatics",
     "description": "PrimeVue is an open source UI library for Vue featuring a rich set of 80+ components, a theme designer, various theme alternatives such as Material, Bootstrap, Tailwind, premium templates and professional support. In addition, it integrates with PrimeBlock, which has 370+ ready to use UI blocks to build spectacular applications in no time.",
     "homepage": "https://primevue.org/",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/primefaces/primevue.git",
+        "url": "https://github.com/akkaraphon/lpp-design-system.git",
         "directory": "packages/primevue"
     },
     "bugs": {
-        "url": "https://github.com/primefaces/primevue/issues"
+        "url": "https://github.com/akkaraphon/lpp-design-system/issues"
     },
     "keywords": [
         "primevue",

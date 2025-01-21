@@ -1,15 +1,15 @@
 {
-    "name": "@primevue/monorepo",
+    "name": "@lpp-design-system/monorepo",
     "version": "4.2.5",
     "author": "PrimeTek Informatics",
     "homepage": "https://primevue.org/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/primefaces/primevue.git"
+        "url": "https://github.com/akkaraphon/lpp-design-system.git"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/primefaces/primevue/issues"
+        "url": "https://github.com/akkaraphon/lpp-design-system/issues"
     },
     "scripts": {
         "setup": "rm -rf **/node_modules **/dist **/.nuxt ./pnpm-lock.yaml && pnpm install",
@@ -24,7 +24,7 @@
         "build:core": "pnpm --filter core build",
         "build:metadata": "pnpm --filter metadata build",
         "build:module": "pnpm --filter nuxt-module build",
-        "build:lib": "pnpm --filter primevue build",
+        "build:lib": "pnpm --filter lpp-design-system build",
         "build:themes": "pnpm --filter themes build",
         "build:icons": "pnpm --filter icons build",
         "build:forms": "pnpm --filter forms build",
