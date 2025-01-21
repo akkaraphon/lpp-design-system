@@ -1,5 +1,5 @@
 {
-    "name": "@primevue/nuxt-module",
+    "name": "@lpp-design-system/nuxt-module",
     "version": "4.2.5",
     "author": "PrimeTek Informatics",
     "description": "Nuxt module for PrimeVue",
@@ -7,11 +7,11 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/primefaces/primevue.git",
+        "url": "https://github.com/akkaraphon/lpp-design-system.git",
         "directory": "packages/nuxt-module"
     },
     "bugs": {
-        "url": "https://github.com/primefaces/primevue/issues"
+        "url": "https://github.com/akkaraphon/lpp-design-system/issues"
     },
     "keywords": [
         "vue",

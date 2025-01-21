@@ -1,5 +1,5 @@
 {
-    "name": "@primevue/auto-import-resolver",
+    "name": "@lpp-design-system/auto-import-resolver",
     "version": "4.2.5",
     "author": "PrimeTek Informatics",
     "description": "",
@@ -7,11 +7,11 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/primefaces/primevue.git",
+        "url": "https://github.com/akkaraphon/lpp-design-system.git",
         "directory": "packages/auto-import-resolver"
     },
     "bugs": {
-        "url": "https://github.com/primefaces/primevue/issues"
+        "url": "https://github.com/akkaraphon/lpp-design-system/issues"
     },
     "main": "./index.ts",
     "module": "./index.ts",
